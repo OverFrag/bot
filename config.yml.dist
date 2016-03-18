@@ -1,0 +1,10 @@
+account:
+    email: ~
+    password: ~
+global:
+    command: !
+api:
+    host: 127.0.0.1
+    port: 9090
+    keys:
+        - NotSoSecretKey
