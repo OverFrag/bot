@@ -1,3 +1,6 @@
 [submodule "modules/overfrag/fun"]
 	path = modules/overfrag/fun
 	url = https://github.com/OverFrag/DiscordBot-Module-Fun
+[submodule "modules/core"]
+	path = modules/core
+	url = https://github.com/OverFrag/DiscordBot-Module-Core.git
